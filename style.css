@@ -1,11 +1,28 @@
 /*My CSS Code*/
-
-/*Head CSS*/
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-*{
+
+/*Head CSS*/
+header {
+  background-image: url(https://i.ytimg.com/vi/ANAjF4UC5Ek/maxresdefault.jpg;
+  height: 400px;
+  background-position: center center;
+}
+ /*Default*/ 
+    *{
  font-family: Georgia
 }
+    h1 {
+  color: #41292C;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
 p { 
  color: blue; font-size: 18px;
 }
