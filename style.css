@@ -1,5 +1,26 @@
+/*My CSS Code*/
 
-<link href="https://www.codecademy.com/stylesheets/style.css" type="text/css" rel="stylesheet">
- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+/*Head CSS*/
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+*{
+ font-family: Georgia
+}
+p { 
+ color: blue; font-size: 18px;
+}
+h1{ 
+ color: green; font-size: 18px;
+}
+/*Body CSS*/
+body {
+  padding: 0;
+  margin: 0;
+  background: #f7f7f7;
+  /* Old browsers */
+  background: -moz-linear-gradient(45deg, #f7f7f7 0%, #EAE0D5 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, #f7f7f7 0%, #EAE0D5 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, #f7f7f7 0%, #EAE0D5 100%);
+}
