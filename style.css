@@ -3,15 +3,16 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 
 /*Head CSS*/
+    *{
+ font-family: Georgia
+}
 header {
   background-image: url(https://i.ytimg.com/vi/ANAjF4UC5Ek/maxresdefault.jpg;
   height: 400px;
   background-position: center center;
 }
- /*Default*/ 
-    *{
- font-family: Georgia
-}
+
+
     h1 {
   color: #41292C;
   font-family: 'Covered By Your Grace', sans-serif;
