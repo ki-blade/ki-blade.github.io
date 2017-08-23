@@ -9,20 +9,22 @@
   padding: 50px;
   height: 600px;
   width: 700px;
-  margin: 0;
+  margin: 10;
   
 }
 
     h1 {
   color: green;
   background-color: black;
-  font-family: 'Covered By Your Grace', sans-serif;
-  font-size: 100px;
+  font-family: "Playfair Display", serif;
+  font-size: 32px;
+  padding-top: 100px;
   line-height: 76px;
   margin: 0;
   position: relative;
   text-align: center;
   top: 20%;
+  letter-spacing: 0.02em;
 }
 
 p { 
