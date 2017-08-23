@@ -28,14 +28,23 @@
 p { 
  color: darkgreen; font-size: 18px;
 }
-h1{ 
+h2{ 
  color: green;
- font-size: 18px;
- padding: 10px;
- margin: 20px;
+  background-color: black;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
 }
 /*Body CSS*/
 body {
   padding: 50px;
   margin: 20px;
   background: black;
+}
+.content {
+  padding: 40px;
+}
