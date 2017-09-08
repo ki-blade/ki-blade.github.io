@@ -16,7 +16,7 @@
 
 div{
    border-style: solid;
-   color: white;
+   color: light-gray;
 }
 
     h1 {
@@ -37,8 +37,8 @@ p {
  color: darkgreen; font-size: 18px;
 }
 h2{ 
- color: green;
-  background-color: black;
+ color: black;
+  
   font-family: 'Covered By Your Grace', sans-serif;
   font-size: 100px;
   line-height: 76px;
@@ -51,7 +51,8 @@ h2{
 body {
   padding: 50px;
   margin: 20px;
-  background: url(http://moheban-ahlebeit.com/images/Japanese-Wallpaper/Japanese-Wallpaper-13.jpg) fixed no-repeat;
+  background: url(http://moheban-ahlebeit.com/images/Japanese-Wallpaper/Japanese-Wallpaper-13.jpg) fixed no-repeat cover;
+  
 }
 .content {
   padding: 40px;
