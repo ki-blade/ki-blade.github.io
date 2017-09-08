@@ -51,7 +51,7 @@ h2{
 body {
   padding: 50px;
   margin: 20px;
-  background: url(http://moheban-ahlebeit.com/images/Japanese-Wallpaper/Japanese-Wallpaper-13.jpg) scroll;
+  background: url(http://moheban-ahlebeit.com/images/Japanese-Wallpaper/Japanese-Wallpaper-13.jpg) fixed no-repeat;
 }
 .content {
   padding: 40px;
